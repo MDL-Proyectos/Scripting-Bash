@@ -1,2 +1,2 @@
 # Scripting-Bash
-Automatizaciones para Linux
+Automatizaciones personales para Linux
